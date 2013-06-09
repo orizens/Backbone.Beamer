@@ -5,4 +5,4 @@ Its purpose is to ease hooking to backbone's prototypes methods - "initialize", 
 
 Above all, Beamer is an Extension Manager &amp; Loader for Backbone.js
 
-head over to the [wiki](https://github.com/orizens/Backbone.Beamer/wiki) for all available extensions.
+head over to the [wiki](https://github.com/orizens/Backbone.Beamer/wiki/Extensions) for all available extensions.
